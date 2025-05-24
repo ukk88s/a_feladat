@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtualenv
+venv/
+.env/
+
+# IDE-k, szerkesztők
+.idea/
+*.iml
+
+# OS fájlok
+.DS_Store
+Thumbs.db
